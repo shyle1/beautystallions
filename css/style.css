@@ -34,6 +34,10 @@ h1,h2,h3,h4,h5 {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
 }
+h2
+{
+  color:#ffffff; ;
+}
 
 h3 {
   color: #525252;
@@ -44,6 +48,9 @@ h5 {
   color: #ffa400;
   letter-spacing: 4px;
   padding-top: 22px;
+}
+h4{
+  color: #000000;
 }
 
 .heading {
@@ -376,7 +383,7 @@ hr {
 /* about section styles
 /* ========================================== */
 #about {
-  background: url('../images/about-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/tony.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
@@ -593,7 +600,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 /* plan section styles
 /* ========================================== */
 #plan {
-  background: url('../images/plan-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../images/mama.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
